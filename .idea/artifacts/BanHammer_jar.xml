@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="BanHammer:jar">
+    <output-path>$USER_HOME$/Desktop/Minecraft Plugin Test/plugins</output-path>
+    <root id="archive" name="BanHammer-1.18.X.jar">
+      <element id="module-output" name="BanHammer" />
+    </root>
+  </artifact>
+</component>
